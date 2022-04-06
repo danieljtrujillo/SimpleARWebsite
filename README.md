@@ -13,7 +13,7 @@
 
 5) Change the names of the item icon files from "images/portfolio/item1.png" to whatever you named your files (or just name your icon images 'item1.png' etc)
 
-6) Change '<h3>ITEM 1</h3>' to reflect whatever name you want to appear on your website
+6) Change '< h 3 >ITEM 1< / h 3 >' to reflect whatever name you want to appear on your website
 
 7) Enter a BRIEF description of your item, if it is too long, you might have to reformat in the CSS
 
